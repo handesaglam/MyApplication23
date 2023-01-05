@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="sınav1">1.Sınav notunuz</string>
+    <string name="sınav2">2.Sınav notunuz</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="sonuctext">Sonuc</string>
+
+</resources>
